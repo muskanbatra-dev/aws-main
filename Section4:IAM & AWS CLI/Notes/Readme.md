@@ -97,4 +97,23 @@ So this dashboard is where we are going to create our users
 
 ## Next we have to add permissions to this User or get started with groups.
 
+[![Slide 17](../Slides/Slide17.png)](../Slides/Slide17.png)
+
 ## Now we create a group , the group name is going to be admin and policy name is going to be admnistrator access
+
+[![Slide 18](../Slides/Slide18.png)](../Slides/Slide18.png)
+[![Slide 19](../Slides/Slide19.png)](../Slides/Slide19.png)
+
+## Now that this is done,we can add the user into the admin group, now click on next
+
+[![Slide 20](../Slides/Slide20.png)](../Slides/Slide20.png)
+
+## Now we have tags as well
+
+## Tags are everywhere in aws they are optional, but they allow you to give metadata to many of your resources
+
+[![Slide 21](../Slides/Slide21.png)](../Slides/Slide21.png)
+
+## Now we can email signin instructions or download csv file, so we can login with this user later
+
+## But first lets return to the user list and have a look at everything
