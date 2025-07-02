@@ -61,10 +61,10 @@
 ## On the left hand side of the IAM DASHBOARD we go to users
 
 So this dashboard is where we are going to create our users
-
 [![Slide 10](../Slides/Slide10.png)](../Slides/Slide10.png)
-[![Slide 11](../Slides/Slide11.png)](../Slides/Slide11.png)
 
 ## IAM is a global service, therefore there is no region to be selected
 
 ## but some other consoles that we see over here will be region specific
+
+[![Slide 11](../Slides/Slide11.png)](../Slides/Slide11.png)
