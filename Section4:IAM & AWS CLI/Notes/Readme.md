@@ -117,3 +117,46 @@ So this dashboard is where we are going to create our users
 ## Now we can email signin instructions or download csv file, so we can login with this user later
 
 ## But first lets return to the user list and have a look at everything
+
+## click on create user
+
+[![Slide 21](../Slides/Slide21.png)](../Slides/Slide21.png)
+
+[![Slide 22](../Slides/Slide22.png)](../Slides/Slide22.png)
+
+## lets return to the user list
+
+[![Slide 23](../Slides/Slide23.png)](../Slides/Slide23.png)
+
+## if we go to permisiions
+
+[![Slide 24](../Slides/Slide24.png)](../Slides/Slide24.png)
+
+## It has been attached via the group admin
+
+[![Slide 25](../Slides/Slide25.png)](../Slides/Slide25.png)
+
+## Muskan inherited permission of the group admin it is in, and this is why we put users in group
+
+# now we want to sign in with our user muskan
+
+## AWS user has an
+
+### account id
+
+### sign-in Url
+
+[![Slide 26](../Slides/Slide26.png)](../Slides/Slide26.png)
+
+## You can customize this Sign-in URL very easily by creating an account alias
+
+click on create under Account Alias
+[![Slide 27](../Slides/Slide27.png)](../Slides/Slide27.png)
+
+[![Slide 28](../Slides/Slide28.png)](../Slides/Slide28.png)
+
+[![Slide 29](../Slides/Slide29.png)](../Slides/Slide29.png)
+
+[![Slide 30](../Slides/Slide30.png)](../Slides/Slide30.png)
+
+## Now paste this sign-in url in a private window on safari web browser
