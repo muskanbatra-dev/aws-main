@@ -35,3 +35,15 @@
 [![Slide 6](../Slides/Slide6.png)](../Slides/Slide6.png)
 
 ## Why do we create users and why do we create groups?
+
+### Because we want to allow them to use our AWS accounts, and to allow them to do so we have to give them permisiions.
+
+### USERS OR GROUPS: can be assigned json documents called policies
+
+[![Slide 7](../Slides/Slide7.png)](../Slides/Slide7.png)
+
+### These policies define the permisiions of the users
+
+### These policies define the permisiions of the users
+
+### In AWS you apply the LEAST PRIVILEDGE PRINCIPLE: dont give more permisiion than a user needs
