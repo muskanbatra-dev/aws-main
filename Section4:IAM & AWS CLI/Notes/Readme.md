@@ -47,3 +47,24 @@
 ### These policies define the permisiions of the users
 
 ### In AWS you apply the LEAST PRIVILEDGE PRINCIPLE: dont give more permisiion than a user needs
+
+# STEPS TO CREATE IAM USERS
+
+## In the search bar of the console search IAM, and go to the iam service dashboard
+
+[![Slide 8](../Slides/Slide8.png)](../Slides/Slide8.png)
+
+## Upon arriving on the IAM DASHBOARD, we have some security recommendations that we can for now not care about
+
+[![Slide 9](../Slides/Slide9.png)](../Slides/Slide9.png)
+
+## On the left hand side of the IAM DASHBOARD we go to users
+
+So this dashboard is where we are going to create our users
+
+[![Slide 10](../Slides/Slide10.png)](../Slides/Slide10.png)
+[![Slide 11](../Slides/Slide11.png)](../Slides/Slide11.png)
+
+## IAM is a global service, therefore there is no region to be selected
+
+## but some other consoles that we see over here will be region specific
