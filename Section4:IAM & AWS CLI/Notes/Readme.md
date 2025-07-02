@@ -160,3 +160,7 @@ click on create under Account Alias
 [![Slide 30](../Slides/Slide30.png)](../Slides/Slide30.png)
 
 ## Now paste this sign-in url in a private window on safari web browser
+
+## On the left side we have the IAM USER on the right side we have Normal AWS User
+
+[![Slide 31](../Slides/Slide31.png)](../Slides/Slide31.png)
