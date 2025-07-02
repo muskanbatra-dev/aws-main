@@ -65,6 +65,30 @@ So this dashboard is where we are going to create our users
 
 ## IAM is a global service, therefore there is no region to be selected
 
-## but some other consoles that we see over here will be region specific
+## When you create a user in IAM it will be global, it will be available everywhere, and therefore no region needs to be selected.
+
+## but some other consoles that we see over here will be region specific.
 
 [![Slide 11](../Slides/Slide11.png)](../Slides/Slide11.png)
+
+# Why do we create Users?
+
+## Well we create users beacuse right now we are using what is called the root User, which is not the best practise
+
+## Click on create user button
+
+[![Slide 12](../Slides/Slide12.png)](../Slides/Slide12.png)
+
+## Add a username
+
+[![Slide 13](../Slides/Slide13.png)](../Slides/Slide13.png)
+
+## click the checkbox for Provide user access to AWS mangement console
+
+[![Slide 14](../Slides/Slide14.png)](../Slides/Slide14.png)
+
+## click the radiobutton for I want to create an IAM User
+
+[![Slide 15](../Slides/Slide15.png)](../Slides/Slide15.png)
+
+## click the radiobutton for I want to create an IAM User
