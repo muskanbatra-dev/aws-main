@@ -34,17 +34,27 @@
 
 ## Increasing RAM will also improve CPU and network
 
+[![Slide 2](../Slides/Slide2.png)](../Slides/Slide2.png)
+
 # AWS LAMBDA LANGUAGE SUPPORT
 
-## Integrated with whole AWS suite of services
+## Node.js(JavaScript)
 
-## Integrated with many programming languages
+## Python
 
-## Easy monitoring through AWS Cloudwatch
+## Java
 
-## Easy to get more resources per functions(up to 10GB of RAM)
+## C# (.NET Core)/ Powershell
 
-## Increasing RAM will also improve CPU and network
+## Ruby
+
+## Custom Runtime API(community supported , example RUST AND GOLANG)
+
+## lambda Container Image
+
+### The container image must implement the Lambda Runtime API
+
+### ECS/Fargate is preferred for running arbitary Docker images
 
 # AWS LAMBDA INTEGRATIONS
 
