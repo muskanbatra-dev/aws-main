@@ -56,6 +56,8 @@
 
 ### ECS/Fargate is preferred for running arbitary Docker images
 
+[![Slide 3](../Slides/Slide3.png)](../Slides/Slide3.png)
+
 # AWS LAMBDA INTEGRATIONS
 
 ## Integrated with whole AWS suite of services
