@@ -60,48 +60,44 @@
 
 # AWS LAMBDA INTEGRATIONS
 
-## Integrated with whole AWS suite of services
+## API GATEAWAY
 
-## Integrated with many programming languages
+### Create a REST API and they will invoke our lambda functions
 
-## Easy monitoring through AWS Cloudwatch
+## KINESIS
 
-## Easy to get more resources per functions(up to 10GB of RAM)
+### will be using lambdas to do some data transformations on the fly
 
-## Increasing RAM will also improve CPU and network
+## DYNAMODB
 
-# EXAMPLE1:
+### will be used to create some triggers, so whenever something happens in our database a lambda function will be triggered
 
-## Integrated with whole AWS suite of services
+## S3
 
-## Integrated with many programming languages
+### a lambda function will be triggered anytime a file is created in S3
 
-## Easy monitoring through AWS Cloudwatch
+## CLOUDFRONT
 
-## Easy to get more resources per functions(up to 10GB of RAM)
+### cloudfront is lambda at edge
 
-## Increasing RAM will also improve CPU and network
+## CLOUDWATCH EVENTS EVENTBRIDGE
 
-# EXAMPLE2:
+### This is whenever things happen in our infrastructure on AWS and we want to be able to react to things
 
-## Integrated with whole AWS suite of services
+### For example, say we have a codepipeline state changes and we want to do some
 
-## Integrated with many programming languages
+## CLOUDWATCH LOGS
 
-## Easy monitoring through AWS Cloudwatch
+### cloudwatch logs to stream these logs whenever you want
 
-## Easy to get more resources per functions(up to 10GB of RAM)
+## SNS
 
-## Increasing RAM will also improve CPU and network
+### SNS to react to notifications in your SNS topics
 
-# EXAMPLE3:
+## SQS
 
-## Integrated with whole AWS suite of services
+### SQS to process messages from your SQS Queues
 
-## Integrated with many programming languages
+## COGNITO
 
-## Easy monitoring through AWS Cloudwatch
-
-## Easy to get more resources per functions(up to 10GB of RAM)
-
-## Increasing RAM will also improve CPU and network
+### to react to whenever a user logs into your database

@@ -22,4 +22,34 @@
 
 [![Slide 1](../Slides/Slide1.png)](../Slides/Slide1.png)
 
+# Serverless in AWS
+
+## AWS LAMBDA
+
+## DYNAMO DB
+
+## AWS COGNITO
+
+## AWS API GATEAWAY
+
+## AMAZON S3
+
+## AWS SNS AND SQS
+
+### We did not manage any services using SNS AND SQS it was scalling on its own, and it was scalling on its own, so that fits the serverless use case
+
+## AWS KINESIS DATA FIREHOSE
+
+### It scales based on the thoughtput you have, you just pay for what you use and dont provision servers
+
+## AURORA SERVERLESS
+
+### Aurora Database scales on demand without you managing servers
+
+## STEPFUNCTIONS
+
+## FARGATE
+
+### Fargate was a serverless function of ECS
+
 [![Slide 2](../Slides/Slide2.png)](../Slides/Slide2.png)
