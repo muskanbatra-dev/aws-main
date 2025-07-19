@@ -19,3 +19,7 @@
 ### We have our users they will static content from our S3 bucket, or cloudfront + S3
 
 ### Then we would login with cognito , this is where our users would have there identity stored and they would invoke the REST API through the API GATEWAY, API GATEAWAY would invoke lambda functions and lambda functions will store and retrieve data from Dynamo DB
+
+[![Slide 1](../Slides/Slide1.png)](../Slides/Slide1.png)
+
+[![Slide 2](../Slides/Slide2.png)](../Slides/Slide2.png)
