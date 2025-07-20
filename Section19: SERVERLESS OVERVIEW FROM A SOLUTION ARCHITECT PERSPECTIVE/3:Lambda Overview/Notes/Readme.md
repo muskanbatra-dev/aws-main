@@ -122,4 +122,12 @@
 
 # EXAMPLE: SERVERLESS CRON JOB
 
-## 3
+## create a Cloudwatch Events EventBridge that will be triggered every one hour
+
+## every one hour it will be triggered and integrated with a lambda function that will perform your task
+
+[![Slide 6](../Slides/Slide6.png)](../Slides/Slide6.png)
+
+# AWS Lambda Pricing
+
+[![Slide 7](../Slides/Slide7.png)](../Slides/Slide7.png)
