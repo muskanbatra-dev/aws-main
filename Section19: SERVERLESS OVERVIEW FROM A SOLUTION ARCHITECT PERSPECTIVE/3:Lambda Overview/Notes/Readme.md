@@ -60,6 +60,8 @@
 
 # AWS LAMBDA INTEGRATIONS
 
+[![Slide 4](../Slides/Slide4.png)](../Slides/Slide4.png)
+
 ## API GATEAWAY
 
 ### Create a REST API and they will invoke our lambda functions
@@ -84,7 +86,7 @@
 
 ### This is whenever things happen in our infrastructure on AWS and we want to be able to react to things
 
-### For example, say we have a codepipeline state changes and we want to do some
+### For example, say we have a codepipeline state changes and we want to do some automation based on it
 
 ## CLOUDWATCH LOGS
 
@@ -101,3 +103,23 @@
 ## COGNITO
 
 ### to react to whenever a user logs into your database
+
+# EXAMPLE: SERVERLESS THUMBNAIL CREATION
+
+# lETS SAY WE HAVE AN S3 BUCKET
+
+## And we want to create thumbnails on a flight, so there will be an event , which is that the new image will be uploaded on amazon s3
+
+## this will trigger through an S3 event notification, a lambda function
+
+## That Lambda function, we"ll have code to generate a thumbnail
+
+## That thumbnail may be pushed or uploaded into another S3 bucket or the same S3 Bucket, which will be a smaller version of that image And also , our lambda function may want to insert some data into Dynamo DB around some METADATA for the image
+
+## for example: Image name, Image size , creation date etc
+
+[![Slide 5](../Slides/Slide5.png)](../Slides/Slide5.png)
+
+# EXAMPLE: SERVERLESS CRON JOB
+
+## 3
