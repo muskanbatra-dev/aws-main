@@ -39,3 +39,9 @@
 # HOW DNS WORKS
 
 # For eaxmple we have a web server, and an ip , a public ip(9.10.11.12), could be an EC2 instance for example
+
+## The web browser is going to access example.com
+
+## Its going to ask its local DNS server, hey do you know what example.com is
+
+## Local DNS server, is usually assigned and managed by your company or assigned by your ISP dynamically
