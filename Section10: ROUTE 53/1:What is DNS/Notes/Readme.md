@@ -53,3 +53,5 @@
 ## .com is NS , so its a NS Record Name Server which has IP => 1.2.3.4
 
 ## Now i am going to ask the TOP LEVEL DOMAIN managed by the IANA, example.com is going to be asked to this DNS server
+
+##
