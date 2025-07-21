@@ -56,4 +56,4 @@
 
 ## There is a server called example.com that i know about, which is at =>5.6.7.8 , that is a public IP
 
-## So the local DNS server is going to go to our Final Server, which is the Second Level Domain DNS server
+## So the local DNS server is going to go to our Final Server, which is the Second Level Domain DNS server and this the server managed by your Domain registrar. So it could be Amazon Route 53 and so on
