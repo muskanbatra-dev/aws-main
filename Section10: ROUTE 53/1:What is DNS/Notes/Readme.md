@@ -19,3 +19,13 @@
 [![Slide 1](../Slides/Slide1.png)](../Slides/Slide1.png)
 
 # DNS TERMINOLOGIES
+
+## Domain Registrar: Amazon, Route 53 , Godaddy
+
+## DNS Records: A, AAAA, CNAME, NS
+
+## Zone File: contains DNS Records
+
+## Name Server: resolves DNS queries(Authoritative or Non authoritative)
+
+## Top Level Domain(TLD): .com,,us,.in,.gov,.org
