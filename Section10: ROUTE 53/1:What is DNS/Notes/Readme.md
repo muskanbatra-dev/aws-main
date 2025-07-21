@@ -37,3 +37,5 @@
 [![Slide 3](../Slides/Slide3.png)](../Slides/Slide3.png)
 
 # HOW DNS WORKS
+
+# For eaxmple we have a web server, and an ip , a public ip(9.10.11.12), could be an EC2 instance for example
