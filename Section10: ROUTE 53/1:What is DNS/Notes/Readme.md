@@ -45,3 +45,11 @@
 ## Its going to ask its local DNS server, hey do you know what example.com is
 
 ## Local DNS server, is usually assigned and managed by your company or assigned by your ISP dynamically
+
+## And if the local DNS server has never seen this query before, its first going to ask its ROOT DNS server managed by the ICANN organisation
+
+## Its going to say to ICANN , do you know what is example.com, the root DNS server is going to be like, i have never seen it but i know .com
+
+## .com is NS , so its a NS Record Name Server which has IP => 1.2.3.4
+
+## Now i am going to ask the TOP LEVEL DOMAIN managed by the IANA, example.com is going to be asked to this DNS server
