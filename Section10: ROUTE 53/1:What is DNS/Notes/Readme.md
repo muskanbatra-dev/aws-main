@@ -8,4 +8,12 @@
 
 ## DNS uses hierarchical naming structure
 
+### .com
+
+### example.com
+
+### www.example.com
+
+### api.example.com
+
 [![Slide 1](../Slides/Slide1.png)](../Slides/Slide1.png)
