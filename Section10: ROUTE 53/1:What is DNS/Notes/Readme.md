@@ -54,4 +54,4 @@
 
 ## Now i am going to ask the TOP LEVEL DOMAIN managed by the IANA, example.com is going to be asked to this DNS server
 
-##
+## There is a server called example.com that i know about, which is at =>5.6.7.8 , that is a public IP
