@@ -29,3 +29,9 @@
 ## Name Server: resolves DNS queries(Authoritative or Non authoritative)
 
 ## Top Level Domain(TLD): .com,,us,.in,.gov,.org
+
+## Second Level Domain(SLD):amazon.com,google.com
+
+[![Slide 2](../Slides/Slide2.png)](../Slides/Slide2.png)
+
+[![Slide 3](../Slides/Slide3.png)](../Slides/Slide3.png)
