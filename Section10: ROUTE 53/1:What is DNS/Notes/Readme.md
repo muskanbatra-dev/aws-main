@@ -17,3 +17,5 @@
 ### api.example.com
 
 [![Slide 1](../Slides/Slide1.png)](../Slides/Slide1.png)
+
+# DNS TERMINOLOGIES
