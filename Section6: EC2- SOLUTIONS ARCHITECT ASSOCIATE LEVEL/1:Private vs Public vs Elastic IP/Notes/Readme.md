@@ -12,4 +12,8 @@
 
 ### IPV4 is the most common format used online
 
-### IPV6 is newer and solves problem for the Internet of Things(Iot)
+### IPV6 is newer and solves problem for the Internet of Things(IoT)
+
+### IPV4 allows for 3.7 billion different addresses in the public spaces
+
+[![Slide 1](../Slides/Slide1.png)](../Slides/Slide1.png)
