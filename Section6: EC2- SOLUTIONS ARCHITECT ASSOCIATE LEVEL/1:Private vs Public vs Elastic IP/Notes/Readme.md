@@ -17,3 +17,11 @@
 ### IPV4 allows for 3.7 billion different addresses in the public spaces
 
 [![Slide 1](../Slides/Slide1.png)](../Slides/Slide1.png)
+
+## Private vs Public IP (IPV4)
+
+## Now lets take an Example
+
+### If you have a webserver, that could be our EC2 instance or have a public IP , and we can have another public server with another public ip and using the public IP these servers can talk to one another , which is great
+
+[![Slide 2](../Slides/Slide2.png)](../Slides/Slide2.png)
