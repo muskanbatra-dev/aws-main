@@ -25,3 +25,5 @@
 ### If you have a webserver, that could be our EC2 instance or have a public IP , and we can have another public server with another public ip and using the public IP these servers can talk to one another , which is great
 
 [![Slide 2](../Slides/Slide2.png)](../Slides/Slide2.png)
+
+[![Slide 3](../Slides/Slide3.png)](../Slides/Slide3.png)
