@@ -22,7 +22,9 @@
 
 ## Now lets take an Example
 
-### If you have a webserver, that could be our EC2 instance or have a public IP , and we can have another public server with another public ip and using the public IP these servers can talk to one another , which is great
+### If you have a webserver that could be our EC2 instance or have a public IP , and we can have another public server with another public ip and using the public IP these servers can talk to one another , which is great
+
+### Now when we have a company forExample: My Company and has a private network , the private network basically have this very specific way of being defined, means all the computers within that private network, can talk to one another using that private network, when you touch an internet gateway which is a public gateaway, well these instances will also get access to other servers and so that is a common pattern in AWs
 
 [![Slide 2](../Slides/Slide2.png)](../Slides/Slide2.png)
 
