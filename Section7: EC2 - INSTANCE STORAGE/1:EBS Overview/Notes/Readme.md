@@ -15,3 +15,5 @@
 ## Free teir: 30 GB of free EBS storage of type General Purpose(SSD) or Magnetic per month
 
 [![Slide 1](../Slides/Slide1.png)](../Slides/Slide1.png)
+
+# EBS VOLUME
