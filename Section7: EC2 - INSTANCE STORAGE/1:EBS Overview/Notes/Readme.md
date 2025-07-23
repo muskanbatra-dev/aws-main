@@ -17,3 +17,5 @@
 [![Slide 1](../Slides/Slide1.png)](../Slides/Slide1.png)
 
 # EBS VOLUME
+
+## Its a network Drive(i:e Not A Physical Drive)
