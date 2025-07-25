@@ -12,6 +12,6 @@
 
 ### SPREAD: Spread instances across underlying hardware(max 7 per instances per group per AZ)
 
-### PARTITION: Spread instances across many different partitions(which rely on different sets of racks ) within an AZ
+### PARTITION: Spread instances across many different partitions(which rely on different sets of racks ) within an AZ. Scales to 100s EC2 instances per group(Hadoop, Casandra ,Kafka)
 
 [![Slide 1](../Slides/Slide1.png)](../Slides/Slide1.png)
