@@ -20,5 +20,10 @@
 [![Slide 6](../Slides/Slide6.png)](../Slides/Slide6.png)
 [![Slide 7](../Slides/Slide7.png)](../Slides/Slide7.png)
 [![Slide 8](../Slides/Slide8.png)](../Slides/Slide8.png)
+[![Slide 9](../Slides/Slide9.png)](../Slides/Slide9.png)
+[![Slide 10](../Slides/Slide10.png)](../Slides/Slide10.png)
+[![Slide 11](../Slides/Slide11.png)](../Slides/Slide11.png)
 
 # to remove the elastic ip we can disassociate it
+
+[![Slide 12](../Slides/Slide12.png)](../Slides/Slide12.png)
