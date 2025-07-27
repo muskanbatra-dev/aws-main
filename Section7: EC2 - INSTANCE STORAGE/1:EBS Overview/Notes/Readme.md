@@ -30,4 +30,4 @@
 
 ### To move a volume across you first need to sanpshot it
 
-## Have a provisioned capacity
+## Have a provisioned capacity(size in GBS and IOPS)
