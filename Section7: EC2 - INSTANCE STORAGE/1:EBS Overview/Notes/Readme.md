@@ -19,3 +19,15 @@
 # EBS VOLUME
 
 ## Its a network Drive(i:e Not A Physical Drive)
+
+### It uses the network to communicate the instance, which means there might be a bit of latency
+
+### It can be detached from an EC2 instance and attached to another one quickly
+
+## Its locked to an Availibility Zone(AZ)
+
+### An EBS VOLUME in us east 1a cannot be attached to us east 1b
+
+### To move a volume across you first need to sanpshot it
+
+## Have a provisioned capacity
